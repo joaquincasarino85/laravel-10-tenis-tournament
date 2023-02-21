@@ -1,6 +1,6 @@
 -- INTALATION --
 
-1 - Having download the git reposity, cd example-app
+1 - Download the git repository, cd laravel-10-tenis-tournament
 
 2 - ./vendor/bin/sail up
 
